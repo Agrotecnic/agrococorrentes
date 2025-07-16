@@ -1,0 +1,18 @@
+{
+  "name": "agrococorrentes",
+  "version": "1.0.0",
+  "description": "Projeto Agrococorrentes",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "start": "node app.js",
+    "mcp:neon": "npx -y @neondatabase/mcp-server-neon start napi_v33jv6ty6lrg57bkjv69oq3nr4vd3rcfzsq5judt30549hljwsah9ugnxpmzuz76"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "@neondatabase/mcp-server-neon": "latest"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
