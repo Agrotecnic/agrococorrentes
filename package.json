@@ -9,8 +9,10 @@
     "mcp:neon": "npx -y @neondatabase/mcp-server-neon start napi_v33jv6ty6lrg57bkjv69oq3nr4vd3rcfzsq5judt30549hljwsah9ugnxpmzuz76"
   },
   "dependencies": {
-    "express": "^4.18.2",
-    "@neondatabase/mcp-server-neon": "latest"
+    "@neondatabase/mcp-server-neon": "^0.6.1",
+    "@neondatabase/serverless": "^1.0.1",
+    "dotenv": "^17.2.0",
+    "express": "^4.18.2"
   },
   "devDependencies": {
     "nodemon": "^3.0.1"
