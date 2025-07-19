@@ -1,0 +1,81 @@
+Segmento,Nome Produto,Marca,Menções,Preço/L,Dose/ha,Custo/ha,Classif. Dose,Classif. Preço,Reconhec. Mercado,Reconhec. Consultor,Composição,Estágio de Uso,Classificação Final,BU,Regional
+Vegetativo,Starter Mn Platinun,,11.0,15.66,1.7727272727272727,25.75909090909091,Moderada,Baixo,Alto,Muito recomendado,Apenas Nutricional,Consolidado,Líder,BU3,Leste
+Vegetativo,Cerrado,,6.0,13.25,2.0,27.75,Moderada,Baixo,Médio,Pouco recomendado,Apenas Nutricional,Entrada,Potencial,BU3,Leste
+Vegetativo,Concorde , ,6.0,35.4,1.25,42.06666666666667,Moderada,Alto,Alto,Muito recomendado,Apenas Nutricional,Consolidado,Líder,BU3,Leste
+Vegetativo,Speed (kg),,5.0,15.0,1.5,22.5,Moderada,Baixo,baixo,Sem recomendação,Apenas Nutricional,Intermediário ,Baixo Potencial,BU3,Leste
+Vegetativo,Puma ,,3.0,39.0,1.9166666666666667,71.58333333333333,Moderada,Muito Alto,baixo,Sem recomendação,Apenas Nutricional,Intermediário ,Potencial,BU1,PR/SC/PY-LATAM
+Vegetativo,SOJA PLUS,,3.0,37.333333333333336,1.1666666666666667,40.333333333333336,Moderada,Alto,Médio,Sem recomendação,Parcialmente Balanceada,Consolidado,Alto Potencial,BU1,PR/SC/PY-LATAM
+Vegetativo,Active ,,2.0,52.0,1.0,52.0,Moderada,Muito Alto,baixo,Sem recomendação,Parcialmente Balanceada,Entrada,Baixo Potencial,BU1,PR/SC/PY-LATAM
+Vegetativo,DaCafe ,,2.0,17.5,3.5,61.5,Alta,Muito Alto,Médio,Pouco recomendado,Apenas Nutricional,Intermediário ,Potencial,BU3,Leste
+Vegetativo,Fertileader ,,2.0,120.0,1.0,120.0,Moderada,Elevado,Alto,Sem recomendação,Parcialmente Balanceada,Consolidado,Preço Poribitivo,BU3,Leste
+Vegetativo,Glutamix ,,2.0,40.5,1.25,49.0,Moderada,Alto,Médio,Pouco recomendado,Parcialmente Balanceada,Consolidado,Potencial,BU3,Leste
+Florescimento,Hold ,Stoller,13.0,69.5,0.5,34.25,Muito Baixa,Moderado,Alto,Muito recomendado,Apenas Nutricional,Intermediário,Líder,BU3,Leste
+Florescimento,MS Florada ,Ubyfol,13.0,26.62,1,26.62,Baixa,Moderado,Alto,Muito recomendado,Apenas Nutricional,Consolidado,Líder,BU3,Leste
+Florescimento,CAB,-,5.0,27.4,3,82.2,Moderada,Alto,Alto,Pouco recomendado,Apenas Nutricional,Intermediário,Seguidor,BU1,PR/SC/PY-LATAM
+Florescimento,Florada,Quimifol,5.0,27,1,27,Baixa,Moderado,Médio,Pouco recomendado,Apenas Nutricional,Entrada,Potencial,BU3,Leste
+Florescimento,Exion peg +,Kimberlit,5.0,45.8,2.5,22.9,Muito Baixa,Moderado,Médio,Pouco recomendado,Apenas Nutricional,Entrada,Potencial,BU3,Leste
+Florescimento,Florada (kg),Union agro,2.0,19,2,38,Moderada,Moderado,Médio,Pouco recomendado,Apenas Nutricional,Entrada,Potencial,BU3,Leste
+Florescimento,Profol Produtividade (kg),ICL,2.0,14.5,2,29,Moderada,Moderado,Médio,Pouco recomendado,Apenas Nutricional,Entrada,Seguidor,BU3,Leste
+Florescimento,TOP 10 (kg),Vitalle Corp,2.0,18.5,2,37,Moderada,Moderado,Médio,Pouco recomendado,Apenas Nutricional,Entrada,Potencial,BU3,Leste
+Florescimento,Vorax (kg),Tradecorp,2.0,575,0.08,46,Muito Baixa,Muito Alto,Médio,Pouco recomendado,Balanceada,Intermediário,Seguidor,BU3,Leste
+Florescimento,Veloz,AGRI K,1.0,20,1.5,30,Baixa,Moderado,Médio,Pouco recomendado,Parc. Balanceada,Entrada,Potencial,BU3,Leste
+Enchimento,Mover,Stoller,23.0,42.93,1.8,1693.77,Baixa,Baixo,Médio,Pouco recomendado,Apenas Nutricional,Entrada,Baixo Potencial,BU3,Leste
+Enchimento,Peso+,Ubyfol   ,12.0,47.73,1.21,645.44,Moderada,Alto,Médio,Pouco recomendado,Apenas Nutricional,Entrada,Baixo Potencial,BU3,Leste
+Enchimento,K-fol(kg),UPL,9.0,44.0,1.07,426.6,Moderada,Moderado,Médio,Pouco recomendado,Apenas Nutricional,Entrada,Baixo Potencial,BU3,Leste
+Enchimento,Translok(kg),ICL,7.0,23.8,1.79,294.9,Baixa,Moderado,Médio,Pouco recomendado,Apenas Nutricional,Entrada,Baixo Potencial,BU3,Leste
+Enchimento,Grão Max,Microxisto  ,4.0,30.0,1.13,135.0,Muito Baixa,Muito Baixo,Médio,Pouco recomendado,Apenas Nutricional,Entrada,Baixo Potencial,BU3,Leste
+Enchimento,6-12-40 (kg),Fortgreen ,3.0,30.0,2.03,185.0,Moderada,Moderado,Alto,Muito recomendado,Balanceada,Consolidado,Líder,BU3,Leste
+Enchimento,Nitropotássio (kg),Nitro    ,3.0,15.0,2.0,90,Baixa,Moderado,Médio,Pouco recomendado,Apenas Nutricional,Entrada,Baixo Potencial,BU3,Leste
+Enchimento,Agri k ,Agrichen,2.0,19.0,1.25,48,Baixa,Moderado,Alto,Muito recomendado,Parc. Balanceada,Consolidado,Potencial,BU3,Leste
+Enchimento,Frutifik,Stoller    ,2.0,30.0,2.5,150,Baixa,Baixo,Médio,Pouco recomendado,Apenas Nutricional,Entrada,Baixo Potencial,BU3,Leste
+Enchimento,K 40(kg),Quimifol  ,2.0,27.5,1.13,62.5,Moderada,Moderado,Médio,Pouco recomendado,Apenas Nutricional,Entrada,Baixo Potencial,BU3,Leste
+Indutores de Resistência,Re-Leaf,,21,73.9,0.95,70.35,Moderada,Alto,Alto,Pouco Recomendado,Parcialmente Balanceada,Intermediário,Alto Potencial,BU3,Leste
+Indutores de Resistência,Hulk,,7,167.29,0.5,76.56,Moderada,Alto,Médio,Pouco Recomendado,Parcialmente Balanceada,Intermediário,Alto Potencial,BU3,Leste
+Indutores de Resistência,Cobre EDTA (kg),,5,80.6,0.05,4.03,Muito Baixa,Muito Baixo,Baixo,Sem Recomendação,Apenas Bioestimulante,Entrada,Baixo Resultado,BU3,Leste
+Indutores de Resistência,Curative,,4,47.75,0.88,36.13,Alta,Moderado,Médio,Pouco Recomendado,Parcialmente Balanceada,Consolidado,Líder,BU3,Leste
+Indutores de Resistência,Yantra,,4,52.67,0.5,19.75,Moderada,Baixo,Médio,Sem Recomendação,Parcialmente Balanceada,Intermediário,Alto Potencial,BU3,Leste
+Indutores de Resistência,Kellus Imune,,3,38.0,0.67,19.0,Moderada,Baixo,Baixo,Sem Recomendação,Parcialmente Balanceada,Intermediário,Potencial,BU3,Leste
+Indutores de Resistência,Reforce,,3,37.0,0.5,18.5,Moderada,Baixo,Médio,Sem Recomendação,Apenas Bioestimulante,Consolidado,Alto Potencial,BU3,Leste
+Indutores de Resistência,Salut,,3,111.19,0.5,55.59,Moderada,Alto,Baixo,Sem Recomendação,Parcialmente Balanceada,Entrada,Baixo Resultado,BU3,Leste
+Indutores de Resistência,BION (kg),,2,13500.0,0.02,202.5,Muito Baixa,Elevado,Baixo,Sem Recomendação,Apenas Bioestimulante,Consolidado,Alto Potencial,BU3,Leste
+Indutores de Resistência,Combat Duo,,2,100.0,0.3,15.0,Baixa,Baixo,Baixo,Sem Recomendação,Parcialmente Balanceada,Entrada,Baixo Resultado,BU3,Leste
+Condicionadores de Solo, Byofol , ,17,23.3,5.06,120.04, , ,Alto,Razoável,Parcialmente Balanceada,Intermediário,Muitos positivos,Sim,Alto Potencial,BU3,Leste
+Condicionadores de Solo, Viva BR , ,8,27.0,8.5,229.5, , ,Alto,Excelente,Balanceada,Consolidado,Muitos positivos,Sim,Alto Potencial,BU3,Leste
+Condicionadores de Solo, Root Top , ,6,17.0,5.0,85.0, , ,Médio,Excelente,Parcialmente Balanceada,Intermediário,Poucos positivos, Não,Razoável Potencial,BU3,Leste
+Condicionadores de Solo, Terram , ,5,38.0,2.5,95.0, , ,Médio,Razoável,Parcialmente Balanceada,Intermediário,Poucos positivos, Não,Razoável Potencial,BU3,Leste
+Condicionadores de Solo, Bioma phos , ,5,800.0,0.1,80.0, , ,Baixo,Razoável,Apenas Biológico,Entrada,Poucos positivos, Não,Razoável Potencial,BU3,Leste
+Condicionadores de Solo, Black gold , ,5,35.0,8.5,297.5, , ,Médio,Deficiente,Parcialmente Balanceada,Entrada,Sem relatos, Não,Baixo Potencial,BU3,Leste
+Condicionadores de Solo, CarbonX , ,4,25.0,4.0,100.0, , ,Médio,Razoável,Apenas Bioestimulante,Entrada,Poucos positivos, Não,Razoável Potencial,BU3,Leste
+Condicionadores de Solo, BIOHC CELERE , ,3,35.0,5.0,175.0, , ,Baixo,Razoável,Parcialmente Balanceada,Entrada,Poucos positivos, Não,Razoável Potencial,BU3,Leste
+Condicionadores de Solo, Microgeo Start , ,3,0.88,166.0,146.08, , ,Baixo,Razoável,Parcialmente Balanceada,Consolidado,Poucos positivos, Não,Razoável Potencial,BU3,Leste
+Condicionadores de Solo, Exion Vida , ,3,19.0,2.0,38.0, , ,Alto,Deficiente,Balanceada,Consolidado,Poucos positivos, Sim,Razoável Potencial,BU3,Leste
+Adjuvantes,Li 700,,17,75.63,0.14,8.07,Moderado,Moderado,Baixa,Excelente,Completa,Consolidado,Líder,BU3,Leste
+Adjuvantes,Disperse,,12,72.92,0.13,8.61,Moderado,Moderado,Baixa,Boa,Completa,Intermediário,Líder,BU3,Leste
+Adjuvantes,TA-35,,11,80.9,0.13,8.6,Moderado,Alta,Alto,Excelente,Completa,Consolidado,Líder,BU3,Leste
+Adjuvantes,Atumus Gold Star,,9,76.93,0.05,3.67,Baixo,Baixo,Muito Baixa,Boa,Média,Entrada,Potencial,BU3,Leste
+Adjuvantes,Helper,,8,59.88,0.17,11.28,Moderado,Alta,Alto,Excelente,Completa,Intermediário,Líder,BU3,Leste
+Adjuvantes,Tek-F,,8,69.29,0.05,3.03,Baixo,Muito Baixa,Baixo,Boa,Média,Entrada,Potencial,BU3,Leste
+Adjuvantes,Air Truck,,4,59.5,0.07,4.17,Moderado,M Muito Baixa,Moderado,Razoável,Simples,Entrada,Baixo Potencial,BU3,Leste
+Adjuvantes,Aquamax,,3,73.33,0.08,5.42,Baixo,Baixa,Moderado,Boa,Média,Entrada,Potencial,BU3,Leste
+Adjuvantes,Ares,,3,55.33,0.08,4.27,Baixo,Baixa,Baixo,Razoável,Simples,Entrada,Baixo Potencial,BU3,Leste
+Adjuvantes,Disperse Ultra,,3,87.67,0.04,2.93,Moderado,Muito Baixa,Baixo,Boa,Simples,Entrada,Potencial,BU3,Leste
+Estímulo Hormonal,Stimulate,,10,182.28,0.51,93.16,Moderada,Muito Alto,Alto,Muito recomendado,Horm. Sintético,Consolidado,Líder,BU3,Leste
+Estímulo Hormonal,Stopping Go,,8,168.0,0.38,63.84,Moderada,Alto,Alto,Muito recomendado,Nutr. Amino e Hormônio,Intermediário,Potencial,BU3,Leste
+Estímulo Hormonal,biozyme,,7,152.5,0.29,44.23,Moderada,Moderado,Médio,Muito recomendado,Nutrientes e Algas,Intermediário,Potencial,BU3,Leste
+Estímulo Hormonal,Booster,,6,174.67,0.75,131.0,Alta,Alto,Médio,Pouco recomendado,Nutrientes e Algas,Intermediário,Potencial,BU3,Leste
+Estímulo Hormonal,Amino Alga CoMo,,5,252.32,0.14,35.33,Baixa,Muito Alto,Médio,Pouco recomendado,Aminoácidos,Intermediário,Baixo Desempenho,BU3,Leste
+Estímulo Hormonal,Ray Nitro,,4,100.0,0.63,63.0,Moderada,Moderado,Médio,Sem recomendação,Aminoácidos,Entrada,Baixo Desempenho,BU3,Leste
+Estímulo Hormonal,One Max,,4,164.0,0.4,65.6,Moderada,Alto,Baixo,Sem recomendação,Horm. Sintéticos,Entrada,Baixo Desempenho,BU3,Leste
+Estímulo Hormonal,Maxcel,,3,460.0,0.11,50.6,Muito Baixa,Alto,Baixo,Pouco recomendado,Horm. Sintético,Entrada,Preço Proibitivo,BU3,Leste
+Estímulo Hormonal,vital,,3,390.0,0.15,58.5,Muito Baixa,Muito Alto,Baixo,Sem recomendação,Extrato de algas,Entrada,Preço Proibitivo,BU3,Leste
+Estímulo Hormonal,Vorax (kg),,3,450.0,0.06,27.0,Muito Baixa,Muito Alto,Baixo,Sem recomendação,Aminoácidos,Entrada,Potencial,BU3,Leste
+Tratamento de Sementes,Stimulate,,19,200.18,0.25,53.77,Moderada,Alto,Alto,Muito recomendado,Parc. e Balanceada,Consolidado,Líder,BU3,Leste
+Tratamento de Sementes,Up seeds,,9,208.67,0.14,29.46,Moderada,Alto,Alto,Muito recomendado,Balanceada,Consolidado,Seguidor Veloz,BU3,Leste
+Tratamento de Sementes,Fertiactyl,,9,241.03,0.5,120.52,Alta,Elevado,Alto,Muito recomendado,Parc. e Balanceada,Consolidado,Potencial,BU3,Leste
+Tratamento de Sementes,Biozyme,,7,138.57,0.15,19.28,Moderada,Alto,Médio,Pouco recomendado,Parc. e Balanceada,Intermediário,Seguidor,BU3,Leste
+Tratamento de Sementes,Racimax,,6,138.33,0.13,17.55,Moderada,Alto,Médio,Sem recomendação,Parc. e Balanceada,Intermediário,Seguidor,BU3,Leste
+Tratamento de Sementes,PullSeed L,,5,344.0,0.1,36.5,Muito Baixa,Elevado,Médio,Pouco recomendado,Parc. e Balanceada,Entrada,Potencial,BU3,Leste
+Tratamento de Sementes,Suport,,4,248.33,0.13,26.75,Moderada,Muito Alto,Baixo,Sem recomendação,Balanceada,Entrada,Potencial,BU3,Leste
+Tratamento de Sementes,Send,,4,180.0,0.13,9.0,Moderada,Alto,Baixo,Sem recomendação,Apenas Nutricional,Entrada,Preço Proibitivo,BU3,Leste
+Tratamento de Sementes,CMZ Infinity,,3,105.0,0.18,12.17,Moderada,Alto,Baixo,Sem recomendação,Apenas Nutricional,Entrada,Preço Proibitivo,BU3,Leste
+Tratamento de Sementes,Potamol,,3,193.33,0.09,15.7,Muito Baixa,Alto,Médio,Pouco recomendado,Parc. e Balanceada,Intermediário,Seguidor,BU3,Leste

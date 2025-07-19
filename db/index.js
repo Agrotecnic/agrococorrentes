@@ -2,29 +2,34 @@ const { neon } = require('@neondatabase/serverless');
 const config = require('../config');
 require('dotenv').config();
 
-const sql = neon(process.env.DATABASE_URL);
+// Conexão com o banco Neon
+const sql = neon(config.database.url);
 
-const db = {
-    async getAllConcorrentes() {
-        try {
-            console.log('Conectando ao banco Neon...');
-            const result = await sql`SELECT * FROM concorrentes ORDER BY segmento, nome_produto`;
-            console.log('Resultado da consulta:', result);
-            return result;
-        } catch (error) {
-            console.error('Erro ao buscar concorrentes:', error);
-            throw error;
-        }
-    },
-    async getConcorrentesPorSegmento(segmento) {
-        try {
-            return await sql`SELECT * FROM concorrentes WHERE segmento = ${segmento} ORDER BY nome_produto`;
-        } catch (error) {
-            console.error('Erro ao buscar concorrentes por segmento:', error);
-            throw error;
-        }
+// Função para executar queries
+async function query(text, params) {
+    try {
+        const result = await sql(text, params);
+        return result;
+    } catch (error) {
+        console.error('Erro na query:', error);
+        throw error;
     }
-    // ...adicione outras funções conforme necessário...
-};
+}
 
-module.exports = db;
+// Função para testar a conexão
+async function testConnection() {
+    try {
+        const result = await sql`SELECT NOW()`;
+        console.log('✅ Conexão com Neon estabelecida:', result[0].now);
+        return true;
+    } catch (error) {
+        console.error('❌ Erro ao conectar com Neon:', error);
+        return false;
+    }
+}
+
+module.exports = {
+    query,
+    testConnection,
+    sql
+};

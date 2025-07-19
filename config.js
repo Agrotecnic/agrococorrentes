@@ -2,7 +2,7 @@
 const config = {
     // Configurações do banco de dados
     database: {
-        url: process.env.DATABASE_URL || 'postgresql://user:password@localhost:5432/dbname'
+        url: process.env.DATABASE_URL || 'postgresql://neondb_owner:npg_DdihJ7vlV1sR@ep-raspy-cell-addnlpem-pooler.c-2.us-east-1.aws.neon.tech/neondb?sslmode=require'
     },
     
     // Endpoints da API
